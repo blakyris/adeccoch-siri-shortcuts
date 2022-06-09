@@ -5,9 +5,9 @@ Les raccourcis utilisent l'API Planbition, vous devez donc disposer de vos ident
 
 ## Télécharger les raccourcis
 
-#### Prochains shifts confirmés : 
+#### 💬 Quand est mon prochain shift ?
 - Lien : https://www.icloud.com/shortcuts/cae6b6b6732645bfa03293ce2418519b
-- Demandez à Siri : "Quand est mon prochain shift ?"
+- Réponse : Le prochain shift de la semaine.
 
 ## Instructions
 
