@@ -6,7 +6,7 @@ Les raccourcis utilisent l'API Planbition, vous devez donc disposer de vos ident
 ## Télécharger les raccourcis
 
 #### Prochains shifts confirmés : 
-- Lien : https://www.icloud.com/shortcuts/a85dc6c966644adebae7cab9d387f21d
+- Lien : https://www.icloud.com/shortcuts/cae6b6b6732645bfa03293ce2418519b
 - Demandez à Siri : "Quand est mon prochain shift ?"
 
 ## Instructions
